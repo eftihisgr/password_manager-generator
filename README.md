@@ -6,7 +6,7 @@ This is a C script with GUI that assist you manage your passwords. The user inpu
 The script saves a ```passwords.txt``` file with the passwords **UNENCRYPTED**. This means that anyone who has access to the ```passwords.txt```file, will have access to passwords saved in the file
 
 # Requirements
-* Unix/linux enviroment
+* Unix/linux enviroment (for the .c file. Python version does not require Unix/linux enviroment)
 * GTK development libraries
 
 # Notes
